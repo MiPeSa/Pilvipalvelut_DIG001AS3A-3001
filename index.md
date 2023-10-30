@@ -1,2 +1,2 @@
-## Github Pages sivu /w Jekyll teema.
-#### Lorem ipsum.
+## Jekyll theme based site.
+#### Lorem ipsum jne.

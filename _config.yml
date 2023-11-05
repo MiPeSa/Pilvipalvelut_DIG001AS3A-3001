@@ -1,3 +1,32 @@
-title: Page /w Jekyll theme
+title: Page /w Jekyll theme - MS
 description: Tervetuloa sivulle!
-theme: jekyll-theme-cayman
+remote_theme: benbalter/retlab
+
+# Linkki linkkariin.
+contact_links:
+  - name: LinkedIn
+    url: www.linkedin.com/in/miikkasaukkonen
+    icon: linkedin
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      comments: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      comments: false
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-github-metadata
+  - jekyll-feed

@@ -4,14 +4,14 @@ remote_theme: benbalter/retlab
 
 # Linkki linkkariin.
 contact_links:
-    name: LinkedIn
+  - name: LinkedIn
     url: www.linkedin.com/in/miikkasaukkonen
     icon: linkedin
     
 
 # Plugins
 plugins:
-    jekyll-seo-tag
-    jekyll-avatar
-    jekyll-github-metadata
-    jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-github-metadata
+  - jekyll-feed

@@ -1,6 +1,6 @@
-# Header
+# Etusivu
 
-## Social
+## Social media
 
 Feel free to connect /w me in LinkedIn :)
 

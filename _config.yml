@@ -4,6 +4,7 @@ remote_theme: digitalmalayali/linkhub-jekyll-theme
 name: Sivu /w Jekyll teema - MS 
 tagline: Hello World, tervetuloa sivulle!  
 description: Feel free to connect /w me :) 
+social: linkedin
 locale: fi_FI 
 
 # Defaults

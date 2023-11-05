@@ -1,17 +1,9 @@
 title: Page /w Jekyll theme - MS
 description: Tervetuloa sivulle!
-remote_theme: benbalter/retlab
+remote_theme: digitalmalayali/linkhub-jekyll-theme
 
-# Linkki linkkariin.
-contact_links:
-  - name: LinkedIn
-    url: www.linkedin.com/in/miikkasaukkonen
-    icon: linkedin
-    
-
-# Plugins
-plugins:
-  - jekyll-seo-tag
-  - jekyll-avatar
-  - jekyll-github-metadata
-  - jekyll-feed
+# Site Configuration
+name: Sivu /w Jekyll theme - MS 
+tagline: Hello World, tervetuloa sivulle!  
+description: A free, open-source Jekyll link-in-bio theme.  # Also used as a meta description
+locale: fi_FI 

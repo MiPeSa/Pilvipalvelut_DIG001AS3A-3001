@@ -7,3 +7,11 @@ name: Sivu /w Jekyll theme - MS
 tagline: Hello World, tervetuloa sivulle!  
 description: A free, open-source Jekyll link-in-bio theme.  # Also used as a meta description
 locale: fi_FI 
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"    

@@ -2,6 +2,7 @@
 
 #### Social
 
-Feel free to connect /w me in LinkedIn:
-[LinkedIn](www.linkedin.com/in/miikkasaukkonen)
+Feel free to connect /w me in LinkedIn :)
+
+[LinkedIn - Miikka Saukkonen](www.linkedin.com/in/miikkasaukkonen)
 

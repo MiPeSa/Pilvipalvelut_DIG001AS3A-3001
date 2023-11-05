@@ -1,8 +1,9 @@
 # Etusivu
 
-## Social media
+Lorem ipsum jne. 
+
+### Social media
 
 Feel free to connect /w me in LinkedIn :)
-
-[LinkedIn - Miikka Saukkonen](https://linkedin.com/in/miikkasaukkonen)
+**[LinkedIn - Miikka Saukkonen](https://linkedin.com/in/miikkasaukkonen)**
 

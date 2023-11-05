@@ -1,11 +1,9 @@
-title: Page /w Jekyll theme - MS
-description: Tervetuloa sivulle!
 remote_theme: digitalmalayali/linkhub-jekyll-theme
 
 # Site Configuration
-name: Sivu /w Jekyll theme - MS 
+name: Sivu /w Jekyll teema - MS 
 tagline: Hello World, tervetuloa sivulle!  
-description: A free, open-source Jekyll link-in-bio theme.  # Also used as a meta description
+description: Feel free to connect /w me :) 
 locale: fi_FI 
 
 # Defaults
